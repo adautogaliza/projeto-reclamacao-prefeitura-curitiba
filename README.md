@@ -1,2 +1,2 @@
-# projeto-reclamcao-prefeitura-curitiba
+# projeto-reclamacao-prefeitura-curitiba
 Manipulando a biblioteca Pandas, Seaborn e Matplolib em Python proponho uma rotina de ETL e Análise Exploratória de dados com um dataset de reclamações registradas pela prefeitura de Curitiba. O objetivo deste projeto, desdobrado da disciplina 'Análise Exploratória de Dados' da especialização em 'Data Science e Business Inteligence' do instituto iCEV é verificar o perfil dos solicitantes, descobrir que tipo de reclamações são mais comuns, averiguar quais bairros necessitam de mais atenção por parte do poder público entre outros insghts
